@@ -57,6 +57,8 @@ Heavy civil, roads, bridges, utilities, and site development.
 | **Brown Brothers Construction** | Loa, UT | Not disclosed | Roads, Excavation, Land Dev | [bbcutah.com](https://bbcutah.com) |
 | **Ralph L. Wadsworth** | Draper, UT | Not disclosed | Bridges, Highways, Heavy Civil | [rlwadsworth.com](https://www.rlwadsworth.com) |
 | **Wheeler Machinery** | Salt Lake City, UT | Not disclosed | Equipment, Site Prep | [wheelercat.com](https://www.wheelercat.com) |
+| **Whitaker Construction** | Brigham City, UT | Not disclosed | Underground Utilities, Pipelines, Gas | [whitcon.com](https://www.whitcon.com) |
+| **Tempest Enterprises** | Murray, UT | Not disclosed | Underground Utilities, Fiber, Power | [thetempestco.com](https://thetempestco.com) |
 
 ---
 
@@ -108,6 +110,22 @@ Companies that handle both building and infrastructure projects.
 - **2022 Revenue:** ~$2.5B
 - **Subsidiaries:** WW Clyde, Geneva Rock, Sunroc/Suncore
 - **Notable:** One of Utah's largest family-owned businesses
+
+### Whitaker Construction
+- **Founded:** 1953 by Jim Whitaker
+- **Employees:** 550+ (50+ crews)
+- **Ownership:** Employee-owned (ESOP)
+- **Service Area:** UT, ID, NV, WY, CO, OR, WA
+- **Specialty:** Sewer, storm drain, water, gas pipelines, telecommunications, dams, landfills
+- **Notable:** One of the most respected underground contractors in the Intermountain West
+
+### Tempest Enterprises
+- **Founded:** 1998
+- **Headquarters:** Murray, UT
+- **License Area:** UT, ID, WY, CO, AZ, NV, CA
+- **Specialty:** Fiber optic, gas distribution, power lines, public utilities
+- **Clients:** Government agencies, public utilities, private sector
+- **Notable:** Pre-qualified with Utah DFCM for site and civil projects
 
 ---
 
